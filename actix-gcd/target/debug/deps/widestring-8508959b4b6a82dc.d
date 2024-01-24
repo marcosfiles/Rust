@@ -1,0 +1,11 @@
+C:\Users\marco\Rust\actix-gcd\target\debug\deps\libwidestring-8508959b4b6a82dc.rmeta: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\mod.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\windows.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstr.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstring.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustr.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustring.rs
+
+C:\Users\marco\Rust\actix-gcd\target\debug\deps\widestring-8508959b4b6a82dc.d: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\mod.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\windows.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstr.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstring.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustr.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustring.rs
+
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\lib.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\mod.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\platform\windows.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstr.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ucstring.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustr.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\widestring-0.4.3\src\ustring.rs:

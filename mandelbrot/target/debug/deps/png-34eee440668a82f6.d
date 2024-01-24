@@ -1,0 +1,14 @@
+C:\Users\marco\Rust\mandelbrot\target\debug\deps\libpng-34eee440668a82f6.rmeta: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\chunk.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\crc.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\decoder\mod.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\decoder\stream.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\encoder.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\filter.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\traits.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\common.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\utils.rs
+
+C:\Users\marco\Rust\mandelbrot\target\debug\deps\png-34eee440668a82f6.d: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\chunk.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\crc.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\decoder\mod.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\decoder\stream.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\encoder.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\filter.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\traits.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\common.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\utils.rs
+
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\lib.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\chunk.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\crc.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\decoder\mod.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\decoder\stream.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\encoder.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\filter.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\traits.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\common.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\png-0.7.0\src\utils.rs:

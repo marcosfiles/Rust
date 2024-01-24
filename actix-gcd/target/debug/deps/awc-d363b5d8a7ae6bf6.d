@@ -1,0 +1,14 @@
+C:\Users\marco\Rust\actix-gcd\target\debug\deps\libawc-d363b5d8a7ae6bf6.rmeta: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src/lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\builder.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\connect.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\error.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\frozen.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\request.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\response.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\sender.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\test.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\ws.rs
+
+C:\Users\marco\Rust\actix-gcd\target\debug\deps\awc-d363b5d8a7ae6bf6.d: C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src/lib.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\builder.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\connect.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\error.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\frozen.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\request.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\response.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\sender.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\test.rs C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\ws.rs
+
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src/lib.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\builder.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\connect.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\error.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\frozen.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\request.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\response.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\sender.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\test.rs:
+C:\Users\marco\.cargo\registry\src\index.crates.io-6f17d22bba15001f\awc-0.2.8\src\ws.rs:
